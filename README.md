@@ -36,6 +36,6 @@ Nota: Hay muchos más pero van en secciones distintas (o son poco relevantes).
  **Terminales** 
 
 - Kitty
-_ Alacritty
+- Alacritty
  
 
